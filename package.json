@@ -8,13 +8,13 @@
   "main": "searchStock.js",
   "devDependencies": {},
   "scripts": {
-    "test": "node searchStock.js"
+    "start": "node searchStock.js"
   },
   "repository": {
     "type": "git",
     "url": ""
   },
-  "author": "Joanne",
+  "author": "",
   "license": "ISC",
   "homepage": ""
 }
