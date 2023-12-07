@@ -2,7 +2,6 @@ var http = require('http');
 var url = require('url');
 var fs = require('fs');
 const { MongoClient } = require('mongodb');
-const { resourceLimits } = require('worker_threads');
 
 var port = process.env.PORT || 3000;
 const uri = "mongodb+srv://dbuser1:void-10ne@cluster0.cix9qnf.mongodb.net/?retryWrites=true&w=majority";

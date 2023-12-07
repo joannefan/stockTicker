@@ -8,7 +8,7 @@
   "main": "searchStock.js",
   "devDependencies": {},
   "scripts": {
-    "start": "node searchStock.js"
+    "test": "node searchStock.js"
   },
   "repository": {
     "type": "git",
